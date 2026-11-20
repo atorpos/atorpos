@@ -16,7 +16,7 @@
 **📲 Try my apps on TestFlight**
 
 [![Hockolic beta on TestFlight](https://img.shields.io/badge/Hockolic-Join_the_TestFlight_beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/QWttPQvB)
-[![Locker Minder beta on TestFlight](https://img.shields.io/badge/Locker_Minder-Join_the_TestFlight_beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/PSfs8fSa)
+[![LockinMinder beta on TestFlight](https://img.shields.io/badge/Locker_Minder-Join_the_TestFlight_beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/PSfs8fSa)
 
 </div>
 
@@ -39,7 +39,7 @@ I enjoy connecting the pieces: designing APIs, building the data layer, deployin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⌚ Locker Minder</h3>
+      <h3>⌚ LockinMinder</h3>
       <p><strong>A wrist-first companion for combination locks.</strong></p>
       <p>Save combinations, remember lock locations, sync between iPhone and Apple Watch, and use Live Activities to keep important information close.</p>
       <p>
@@ -47,7 +47,7 @@ I enjoy connecting the pieces: designing APIs, building the data layer, deployin
         <img alt="watchOS" src="https://img.shields.io/badge/watchOS-111827?style=flat-square&logo=apple&logoColor=white" />
         <img alt="CloudKit" src="https://img.shields.io/badge/CloudKit-007AFF?style=flat-square&logo=icloud&logoColor=white" />
       </p>
-      <p>👉 <a href="https://testflight.apple.com/join/PSfs8fSa"><strong>Join the Locker Minder beta on TestFlight</strong></a></p>
+      <p>👉 <a href="https://testflight.apple.com/join/PSfs8fSa"><strong>Join the LockinMinder beta on TestFlight</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏒 Hockolic</h3>
@@ -230,7 +230,7 @@ I'm interested in challenging engineering problems, useful products, and convers
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskarwong/)
 [![GitHub](https://img.shields.io/badge/GitHub-Source_%26_Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atorpos?tab=repositories)
 [![Hockolic on TestFlight](https://img.shields.io/badge/Hockolic-TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/QWttPQvB)
-[![Locker Minder on TestFlight](https://img.shields.io/badge/Locker_Minder-TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/PSfs8fSa)
+[![LockinMinder on TestFlight](https://img.shields.io/badge/Locker_Minder-TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/PSfs8fSa)
 
 Want to learn more about my career experience? **[Visit my LinkedIn profile](https://www.linkedin.com/in/oskarwong/)**.
 
