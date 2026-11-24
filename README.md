@@ -13,10 +13,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskarwong/)
 
+**📲 My apps on AppStore**
+
+[![LockinMinder in App Store](https://img.shields.io/badge/Locker_Minder-Join_the_TestFlight_beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/PSfs8fSa)
+
 **📲 Try my apps on TestFlight**
 
 [![Hockolic beta on TestFlight](https://img.shields.io/badge/Hockolic-Join_the_TestFlight_beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/QWttPQvB)
-[![LockinMinder beta on TestFlight](https://img.shields.io/badge/Locker_Minder-Join_the_TestFlight_beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/PSfs8fSa)
 
 </div>
 
