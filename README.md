@@ -13,13 +13,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskarwong/)
 
-**📲 My apps on AppStore**
+**📲 My apps — live on the Apple App Store**
 
-[![LockinMinder in App Store](https://img.shields.io/badge/Locker_Minder-Join_the_TestFlight_beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/PSfs8fSa)
-
-**📲 Try my apps on TestFlight**
-
-[![Hockolic beta on TestFlight](https://img.shields.io/badge/Hockolic-Join_the_TestFlight_beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://testflight.apple.com/join/QWttPQvB)
+[![Lockinminder on the App Store](https://img.shields.io/badge/Lockinminder-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/lockinminder/id6830228333)
+[![Hockolic on the App Store](https://img.shields.io/badge/Hockolic-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/hockolic/id6833056356)
+[![VigorGems on the App Store](https://img.shields.io/badge/VigorGems-App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/vigorgems/id551379150)
 
 </div>
 
@@ -42,7 +40,7 @@ I enjoy connecting the pieces: designing APIs, building the data layer, deployin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⌚ LockinMinder</h3>
+      <h3>⌚ Lockinminder</h3>
       <p><strong>A wrist-first companion for combination locks.</strong></p>
       <p>Save combinations, remember lock locations, sync between iPhone and Apple Watch, and use Live Activities to keep important information close.</p>
       <p>
@@ -50,7 +48,7 @@ I enjoy connecting the pieces: designing APIs, building the data layer, deployin
         <img alt="watchOS" src="https://img.shields.io/badge/watchOS-111827?style=flat-square&logo=apple&logoColor=white" />
         <img alt="CloudKit" src="https://img.shields.io/badge/CloudKit-007AFF?style=flat-square&logo=icloud&logoColor=white" />
       </p>
-      <p>👉 <a href="https://testflight.apple.com/join/PSfs8fSa"><strong>Join the LockinMinder beta on TestFlight</strong></a></p>
+      <p>👉 <a href="https://apps.apple.com/us/app/lockinminder/id6830228333"><strong>Download Lockinminder on the App Store</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏒 Hockolic</h3>
@@ -61,12 +59,12 @@ I enjoy connecting the pieces: designing APIs, building the data layer, deployin
         <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
         <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
-      <p>👉 <a href="https://testflight.apple.com/join/QWttPQvB"><strong>Join the Hockolic beta on TestFlight</strong></a></p>
+      <p>👉 <a href="https://apps.apple.com/us/app/hockolic/id6833056356"><strong>Download Hockolic on the App Store</strong></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💎 VgemsAI</h3>
+      <h3>💎 VigorGems (VgemsAI)</h3>
       <p><strong>A smarter B2B experience for gems and jewelry.</strong></p>
       <p>An AI-enabled platform connecting industry workflows: company discovery, event and exhibitor data, business conversations, and document handling. Powered by the <strong>awoz-api</strong> backend.</p>
       <p>
@@ -74,6 +72,7 @@ I enjoy connecting the pieces: designing APIs, building the data layer, deployin
         <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img alt="AI" src="https://img.shields.io/badge/AI_Integration-8B5CF6?style=flat-square" />
       </p>
+      <p>👉 <a href="https://apps.apple.com/us/app/vigorgems/id551379150"><strong>Download VigorGems on the App Store</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🧩 Java API Platforms</h3>
@@ -232,8 +231,9 @@ I'm interested in challenging engineering problems, useful products, and convers
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskarwong/)
 [![GitHub](https://img.shields.io/badge/GitHub-Source_%26_Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atorpos?tab=repositories)
-[![Hockolic on TestFlight](https://img.shields.io/badge/Hockolic-TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/QWttPQvB)
-[![LockinMinder on TestFlight](https://img.shields.io/badge/Locker_Minder-TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/PSfs8fSa)
+[![Lockinminder on the App Store](https://img.shields.io/badge/Lockinminder-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/lockinminder/id6830228333)
+[![Hockolic on the App Store](https://img.shields.io/badge/Hockolic-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/hockolic/id6833056356)
+[![VigorGems on the App Store](https://img.shields.io/badge/VigorGems-App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/vigorgems/id551379150)
 
 Want to learn more about my career experience? **[Visit my LinkedIn profile](https://www.linkedin.com/in/oskarwong/)**.
 
